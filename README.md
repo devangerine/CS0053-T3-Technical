@@ -61,21 +61,19 @@ The final output correctly calculates the total price based on the successful ad
 \`\`\`
 --- Order Finalized ---
 --- Your Order Summary ---
-Burger          x 1  @ $8.99 = $8.99
-Fries           x 2  @ $3.49 = $6.98
-Soda            x 1  @ $1.99 = $1.99
+Burger          x 3  @ $8.99 = $26.97
+Salad           x 2  @ $7.50 = $15.00
 
-Total Price:         $17.96
+Total Price:         $41.97
 --------------------------
-Total Price: $17.96
+Total Price: $41.97
 Thank you for your order!
 \`\`\`
 
 **Calculation Verification:**
-*   Burger: $8.99 * 1 = $8.99
-*   Fries: $3.49 * 2 = $6.98
-*   Soda: $1.99 * 1 = $1.99
-*   **Total:** $8.99 + $6.98 + $1.99 = **$17.96**
+*   Burger: $8.99 * 3 = $26.97
+*   Salad: $7.50 * 2 = $15.00
+*   **Total:** $26.97 + $15.00 = **$41.97**
 
 ### Errors and Debugging
 
