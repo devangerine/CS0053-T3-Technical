@@ -57,18 +57,8 @@ The system was tested by simulating a typical user order scenario, including suc
 
 **Output:**
 The final output correctly calculates the total price based on the successful additions.
+![Completed order Screenshot](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Completed%20Order.png)
 
-\`\`\`
---- Order Finalized ---
---- Your Order Summary ---
-Burger          x 3  @ $8.99 = $26.97
-Salad           x 2  @ $7.50 = $15.00
-
-Total Price:         $41.97
---------------------------
-Total Price: $41.97
-Thank you for your order!
-\`\`\`
 
 **Calculation Verification:**
 *   Burger: $8.99 * 3 = $26.97
