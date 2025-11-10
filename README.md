@@ -47,11 +47,13 @@ The system was tested by simulating a typical user order scenario, including suc
 
 **Input Sequence:**
 1.  `Burger 3` (Successful addition)
-![Test 1 - Burger 3x](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Test%201%20-%20Burger%20Success.png)
-2.  `Fries 2` (Successful addition)
-3.  `Pizza 1` (Item not found, testing error handling)
-4.  `Soda 1` (Successful addition)
-5.  `done` (Finalize order)
+![Test 1 - Burger 3x screenshot](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Test%201%20-%20Burger%20Success.png)
+2.  `Salad 2` (Successful addition)
+![Test 2 - Salad 2x screenshot](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Test%202%20-%20Salad%20Success.png)
+3.  `Apple Pie 5` (Item not found, testing error handling)
+![Test 3 - Apple Pie 5x screenshot](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Test%203%20-%20Apple%20Pie%20Failure.png)
+4.  `done` (Finalize order)
+![Test 4 - done screenshot](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Test%204%20-%20Order%20Completion%20via%20done%20as%20input.png)
 
 **Output:**
 The final output correctly calculates the total price based on the successful additions.
