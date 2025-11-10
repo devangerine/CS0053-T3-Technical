@@ -46,7 +46,8 @@ The system was tested by simulating a typical user order scenario, including suc
 ### Sample Test Run
 
 **Input Sequence:**
-1.  `Burger 1` (Successful addition)
+1.  `Burger 3` (Successful addition)
+![Test 1 - Burger 3x](https://github.com/devangerine/CS0053-T3-Technical/blob/main/Test%201%20-%20Burger%20Success.png)
 2.  `Fries 2` (Successful addition)
 3.  `Pizza 1` (Item not found, testing error handling)
 4.  `Soda 1` (Successful addition)
